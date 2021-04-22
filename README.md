@@ -3,11 +3,11 @@
 
 
 ## I'm a Student, Coder, Developer, and Programmer!
-- 🔭 I’m currently working on a Android Development 
+- 🔭 I’m currently learning Android 
 - 💻 I'm Competitive Coding Enthusiasm
 - 🌱 I’m currently learning everything 🤣
 - 👯 Very Eager to work and learn
-- ⚡ I love to playChess
+- ⚡ I love to play Chess
 
 ---
 
