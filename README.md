@@ -2,8 +2,8 @@
 ### Hi there, I'm [Bharat!]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">. 
 
 
-## I'm a Student, Coder, Developer, and Programmer!
-- 🔭 I’m currently learning Android 
+## I'm a FullStack JAVA Developer, Coder, Developer, and Programmer!
+- 🔭 I’m currently learning JAVA 
 - 💻 I'm Competitive Coding Enthusiasm
 - 🌱 I’m currently learning everything 🤣
 - 👯 Very Eager to work and learn
